@@ -1,0 +1,2 @@
+# softkeyboard_dllversion
+基于谷歌开源输入法实现的Qt软键盘静态库版本
